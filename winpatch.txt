@@ -1,41 +1,41 @@
-; ·ÖºÅ¿ªÍ·ÊÇ×¢ÊÍËµÃ÷£¬ÓÃÀ´ÁË½â²¹¶¡µÄÀàĞÍ(ÀıÈç£ºÊÇÔÂ¶È»ã×Ü²¹¶¡»¹ÊÇ°²È«ĞÔ¸üĞÂ²¹¶¡)£¬ÎÄµµÔÊĞíÓĞ¿ÕĞĞ
+; åˆ†å·å¼€å¤´æ˜¯æ³¨é‡Šè¯´æ˜ï¼Œç”¨æ¥äº†è§£è¡¥ä¸çš„ç±»å‹(ä¾‹å¦‚ï¼šæ˜¯æœˆåº¦æ±‡æ€»è¡¥ä¸è¿˜æ˜¯å®‰å…¨æ€§æ›´æ–°è¡¥ä¸)ï¼Œæ–‡æ¡£å…è®¸æœ‰ç©ºè¡Œ
 
 
 
-; 2022-02 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x64 ÏµÍ³µÄÔÂ¶È°²È«ÖÊÁ¿»ã×Ü
+; 2022-03 é€‚ç”¨äº Windows 8.1 åŸºäº x64 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»
 
-_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010419-x64_7440cf608ff2a1fe46a71597140c3e32566a4082.msu
+_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x64_5a580cee56603bc7e278f24bbc1e28fed7ab1f71.msu
 
-; 2022-02 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x86 ÏµÍ³µÄÔÂ¶È°²È«ÖÊÁ¿»ã×Ü
+; 2022-03 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»
 
-_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010419-x86_cabe61a0eebf053617ce422ffed936c0b2ca45e7.msu
+_8.1x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x86_beee60d763ec3b4d40f7dd395d6a574b20efc96e.msu
 
 
 
-; 2022-02 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x64 ÏµÍ³µÄ½ö°²È«¸üĞÂ
+; 2022-03 é€‚ç”¨äº Windows 8.1 åŸºäº x64 ç³»ç»Ÿçš„ä»…å®‰å…¨æ›´æ–°
 
-_only_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010395-x64_0a97e05802268e3f3e0ae07de921f3c1e0c3009b.msu
+_only_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011560-x64_878c623a64cec1be862f63c03f0a644e088949af.msu
 
-; 2022-02 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x86 ÏµÍ³µÄ½ö°²È«¸üĞÂ
+; 2022-03 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„ä»…å®‰å…¨æ›´æ–°
 
-_only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010395-x86_f83e81097eec367b1d24bc07eac1846d7cbb394c.msu
+_only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011560-x86_344145efea500ddb5586f3d6c6accb54aad409c7.msu
 
-; 2022-02 Windows 10 1809 »ùÓÚ x64 ÏµÍ³µÄÀÛ¼Æ¸üĞÂ
+; 2022-03 Windows 10 1809 åŸºäº x64 ç³»ç»Ÿçš„ç´¯è®¡æ›´æ–°
 
-_1809x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/02/windows10.0-kb5010351-x64_f7ba53f4c410299fc28400f7a21b7f616f635a7c.msu
+_1809x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5011503-x64_4ffdd7a077a2c94d093a445f7a0efa10e0b92d95.msu
 
-; 2022-02 Windows 10 1809 »ùÓÚ x86 ÏµÍ³µÄÀÛ¼Æ¸üĞÂ
+; 2022-03 Windows 10 1809 åŸºäº x86 ç³»ç»Ÿçš„ç´¯è®¡æ›´æ–°
 
-_1809x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows10.0-kb5010351-x86_1a64282be2ea037904c0e7cee9ef0dddbd06a9c4.msu
+_1809x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5011503-x86_80cd8d6df2588079b85f0ad042426f24c6e462dd.msu
 
-; 2022-ÊÊÓÃÓÚ Windows 10 Version 21H2 µÄ 02 ÀÛ»ı¸üĞÂ£¬ÊÊºÏ»ùÓÚ x86 µÄÏµÍ³ 
-_21H2x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/02/windows10.0-kb5010342-x86_dd8e3d6b2b8aa7e730fd017978a2124c74ecce99.msu
+; 2022-é€‚ç”¨äº Windows 10 Version 21H2 çš„ 03 ç´¯ç§¯æ›´æ–°ï¼Œé€‚åˆåŸºäº x86 çš„ç³»ç»Ÿ 
+_21H2x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows10.0-kb5011487-x86_20b67d209fb6bc488423c8d73e3c4f66bf17281f.msu
 
-; 2022-ÊÊÓÃÓÚ Windows 10 Version 21H2 µÄ 02 ÀÛ»ı¸üĞÂ£¬ÊÊºÏ»ùÓÚ x64 µÄÏµÍ³ 
-_21H2x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows10.0-kb5010342-x64_f865479b6847db1aab8d436a37a964f31c853887.msu
+; 2022-é€‚ç”¨äº Windows 10 Version 21H2 çš„ 03 ç´¯ç§¯æ›´æ–°ï¼Œé€‚åˆåŸºäº x64 çš„ç³»ç»Ÿ 
+_21H2x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5011487-x64_2190163dcb84974d93ecdc32bdae277b57ebb95c.msu
 
-; 2022-ÊÊÓÃÓÚ Windows 10 Version 1607 µÄ 02 ÀÛ»ı¸üĞÂ£¬ÊÊºÏ»ùÓÚ x64 µÄÏµÍ³
-_1607x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows10.0-kb5010359-x64_f0b427c713754e50609ad0fa7054607a5d404f37.msu
+; 2022-é€‚ç”¨äº Windows 10 Version 1607 çš„ 03 ç´¯ç§¯æ›´æ–°ï¼Œé€‚åˆåŸºäº x64 çš„ç³»ç»Ÿ
+_1607x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows10.0-kb5011495-x64_5687d125f32cb1b43ad1c2dafb6d159b47f4d9bd.msu
 
-; 2022-ÊÊÓÃÓÚ Windows 10 Version 1607 µÄ 02 ÀÛ»ı¸üĞÂ£¬ÊÊºÏ»ùÓÚ x86 µÄÏµÍ³
-_1607x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows10.0-kb5010359-x86_5c22e4ef70968c563c1880f912ddfa07c7fc4a36.msu
+; 2022-é€‚ç”¨äº Windows 10 Version 1607 çš„ 03 ç´¯ç§¯æ›´æ–°ï¼Œé€‚åˆåŸºäº x86 çš„ç³»ç»Ÿ
+_1607x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows10.0-kb5011495-x86_f275c41b70004653d97499963fc1ae453f6ba577.msu
